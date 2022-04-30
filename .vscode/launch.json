@@ -7,6 +7,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch text_8_1",
+      "request": "launch",
+      "mainClass": "javaStudy.text_8_1",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "type": "java",
       "name": "Launch Example07",
       "request": "launch",
       "mainClass": "Example07",
