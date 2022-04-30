@@ -1,0 +1,869 @@
+{
+  // 使用 IntelliSense 了解相关属性。
+  // 悬停以查看现有属性的描述。
+  // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Example07",
+      "request": "launch",
+      "mainClass": "Example07",
+      "projectName": "day18"
+    },
+    {
+      "type": "java",
+      "name": "Launch text_5_1",
+      "request": "launch",
+      "mainClass": "javaStudy.text_5_1"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example01",
+      "request": "launch",
+      "mainClass": "day19.Example01",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch QQLogin",
+      "request": "launch",
+      "mainClass": "day18.qqText.QQLogin",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example17",
+      "request": "launch",
+      "mainClass": "day18.Example17",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example16",
+      "request": "launch",
+      "mainClass": "day18.Example16",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example15",
+      "request": "launch",
+      "mainClass": "day18.Example15",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example14",
+      "request": "launch",
+      "mainClass": "day18.Example14",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example13",
+      "request": "launch",
+      "mainClass": "day18.Example13",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example12",
+      "request": "launch",
+      "mainClass": "day18.Example12",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example11",
+      "request": "launch",
+      "mainClass": "day18.Example11",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example10",
+      "request": "launch",
+      "mainClass": "day18.Example10",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch a1",
+      "request": "launch",
+      "mainClass": "Text.a1",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example09",
+      "request": "launch",
+      "mainClass": "day18.Example09",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example08",
+      "request": "launch",
+      "mainClass": "day18.Example08",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example07",
+      "request": "launch",
+      "mainClass": "day18.Example07",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example06",
+      "request": "launch",
+      "mainClass": "day18.Example06",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch seven_2",
+      "request": "launch",
+      "mainClass": "suanfaHomeWork.seven_2",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch seven_1",
+      "request": "launch",
+      "mainClass": "suanfaHomeWork.seven_1",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example05",
+      "request": "launch",
+      "mainClass": "day18.Example05",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example04",
+      "request": "launch",
+      "mainClass": "day18.Example04",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example03",
+      "request": "launch",
+      "mainClass": "day18.Example03",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example02",
+      "request": "launch",
+      "mainClass": "day18.Example02",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example01",
+      "request": "launch",
+      "mainClass": "day18.Example01",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch text_7_2",
+      "request": "launch",
+      "mainClass": "javaStudy.text_7_2",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch text_7_1",
+      "request": "launch",
+      "mainClass": "javaStudy.text_7_1",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example20",
+      "request": "launch",
+      "mainClass": "day17.Example20",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch text_stream",
+      "request": "launch",
+      "mainClass": "javaStudy.text_stream",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example19",
+      "request": "launch",
+      "mainClass": "day17.Example19",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example18",
+      "request": "launch",
+      "mainClass": "day17.Example18",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example16",
+      "request": "launch",
+      "mainClass": "day17.Example16",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example15",
+      "request": "launch",
+      "mainClass": "day17.Example15",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example14",
+      "request": "launch",
+      "mainClass": "day17.Example14",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example13",
+      "request": "launch",
+      "mainClass": "day17.Example13",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example12",
+      "request": "launch",
+      "mainClass": "day17.Example12",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example11",
+      "request": "launch",
+      "mainClass": "day17.Example11",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example10",
+      "request": "launch",
+      "mainClass": "day17.Example10",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example09",
+      "request": "launch",
+      "mainClass": "day17.Example09",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example08",
+      "request": "launch",
+      "mainClass": "day17.Example08",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example07",
+      "request": "launch",
+      "mainClass": "day17.Example07",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example06",
+      "request": "launch",
+      "mainClass": "day17.Example06",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example05",
+      "request": "launch",
+      "mainClass": "day17.Example05",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example04",
+      "request": "launch",
+      "mainClass": "day17.Example04",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example03",
+      "request": "launch",
+      "mainClass": "day17.Example03",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example02",
+      "request": "launch",
+      "mainClass": "day17.Example02",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example01",
+      "request": "launch",
+      "mainClass": "day17.Example01",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch text_6_2",
+      "request": "launch",
+      "mainClass": "javaStudy.text_6_2",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example27",
+      "request": "launch",
+      "mainClass": "day16.Example27",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch text_6_1",
+      "request": "launch",
+      "mainClass": "javaStudy.text_6_1",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch sixthTwich_3",
+      "request": "launch",
+      "mainClass": "suanfaHomeWork.sixthTwich_3",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch sixthTwich_2",
+      "request": "launch",
+      "mainClass": "suanfaHomeWork.sixthTwich_2",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch sixthTwich_1_2",
+      "request": "launch",
+      "mainClass": "suanfaHomeWork.sixthTwich_1_2",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch sixthTwich_1",
+      "request": "launch",
+      "mainClass": "suanfaHomeWork.sixthTwich_1",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example26",
+      "request": "launch",
+      "mainClass": "day16.Example26",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example25",
+      "request": "launch",
+      "mainClass": "day16.Example25",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example24",
+      "request": "launch",
+      "mainClass": "day16.Example24",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example23",
+      "request": "launch",
+      "mainClass": "day16.Example23",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example22",
+      "request": "launch",
+      "mainClass": "day16.Example22",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example21",
+      "request": "launch",
+      "mainClass": "day16.Example21",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch text_list",
+      "request": "launch",
+      "mainClass": "javaStudy.text_list",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example20",
+      "request": "launch",
+      "mainClass": "day16.Example20",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example19",
+      "request": "launch",
+      "mainClass": "day16.Example19",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example18",
+      "request": "launch",
+      "mainClass": "day16.Example18",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example17",
+      "request": "launch",
+      "mainClass": "day16.Example17",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example16",
+      "request": "launch",
+      "mainClass": "day16.Example16",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example15",
+      "request": "launch",
+      "mainClass": "day16.Example15",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example14",
+      "request": "launch",
+      "mainClass": "day16.Example14",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example13",
+      "request": "launch",
+      "mainClass": "day16.Example13",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example12",
+      "request": "launch",
+      "mainClass": "day16.Example12",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example11",
+      "request": "launch",
+      "mainClass": "day16.Example11",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example10",
+      "request": "launch",
+      "mainClass": "day16.Example10",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example09",
+      "request": "launch",
+      "mainClass": "day16.Example09",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch text_time",
+      "request": "launch",
+      "mainClass": "javaStudy.text_time",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch x",
+      "request": "launch",
+      "mainClass": "ArraysUtil.x",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Exanple08",
+      "request": "launch",
+      "mainClass": "day16.Exanple08",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example07",
+      "request": "launch",
+      "mainClass": "day16.Example07",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch text_5_2",
+      "request": "launch",
+      "mainClass": "javaStudy.text_5_2",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch text_5_1",
+      "request": "launch",
+      "mainClass": "javaStudy.text_5_1",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example06",
+      "request": "launch",
+      "mainClass": "day16.Example06",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch x",
+      "request": "launch",
+      "mainClass": "AnimaText.x",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example05",
+      "request": "launch",
+      "mainClass": "day16.Example05",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example04",
+      "request": "launch",
+      "mainClass": "day16.Example04",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example03",
+      "request": "launch",
+      "mainClass": "day16.Example03",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch text_abnormal_1",
+      "request": "launch",
+      "mainClass": "javaStudy.text_abnormal_1",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch t1",
+      "request": "launch",
+      "mainClass": "Text.t1",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example02",
+      "request": "launch",
+      "mainClass": "day16.Example02",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example01",
+      "request": "launch",
+      "mainClass": "day16.Example01",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch DeformableParameter",
+      "request": "launch",
+      "mainClass": "DeformableParameter.DeformableParameter",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example18",
+      "request": "launch",
+      "mainClass": "day15.Example18",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch fifth_2",
+      "request": "launch",
+      "mainClass": "suanfaHomeWork.fifth_2",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch fifth_1",
+      "request": "launch",
+      "mainClass": "suanfaHomeWork.fifth_1",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Exxample16",
+      "request": "launch",
+      "mainClass": "day15.Exxample16",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example14",
+      "request": "launch",
+      "mainClass": "day15.Example14",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example03",
+      "request": "launch",
+      "mainClass": "day15.Example03",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Example28",
+      "request": "launch",
+      "mainClass": "day14.Example28",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch third_2_3",
+      "request": "launch",
+      "mainClass": "suanfaHomeWork.third_2_3",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch third_2",
+      "request": "launch",
+      "mainClass": "suanfaHomeWork.third_2",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch second_2",
+      "request": "launch",
+      "mainClass": "suanfaHomeWork.second_2",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch textd",
+      "request": "launch",
+      "mainClass": "day11.textd",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch second",
+      "request": "launch",
+      "mainClass": "suanfaHomeWork.second",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch text",
+      "request": "launch",
+      "mainClass": "day11.text",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch AnimalText",
+      "request": "launch",
+      "mainClass": "AnimaText.AnimalText",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch CustomerView",
+      "request": "launch",
+      "mainClass": "project2Text.ui.CustomerView",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch text",
+      "request": "launch",
+      "mainClass": "ArraysUtil.text",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch niming",
+      "request": "launch",
+      "mainClass": "day1.niming",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch E",
+      "request": "launch",
+      "mainClass": "E",
+      "projectName": "java_c1dbfa6b"
+    },
+    {
+      "encoding": "GBK",
+      "type": "java",
+      "name": "Launch Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "java_c1dbfa6b"
+    }
+  ]
+}
